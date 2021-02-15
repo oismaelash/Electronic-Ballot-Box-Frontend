@@ -1,6 +1,32 @@
-# Getting Started with Create React App
+  <h3 align="center">Electronic Ballot Box System Frontend</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <p align="center">
+    Vote on your candidate,  manage the candidates and see ranking of votes 
+    <br />
+    <a href="https://www.youtube.com/watch?v=IolIGAulyaw">View Demo</a>
+     ·
+    <a href="https://github.com/ismaelash/Electronic-Ballot-Box-Backend">Github Backend</a>
+    ·
+    <a href="https://github.com/ismaelash/Electronic-Ballot-Box-Frontend/issues">Report Bug or Feature</a>
+   
+  </p>
+</p>
+
+## Important
+
+Change the URL of API on file [api.js](https://github.com/ismaelash/Electronic-Ballot-Box-Frontend/blob/main/src/api.js).
+
+## Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://electronic-ballot-box.ismaelnascimento.com/).
+
+## Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://electronic-ballot-box.ismaelnascimento.com/).
+
+## Available Scripts
+
+In the project directory, you can run:
 
 ## Available Scripts
 
